@@ -24,10 +24,3 @@ It's a great introductory project for gesture recognition and real-time image pr
 3. Find contours to detect the hand.
 4. Use convex hull and defects to count the number of fingers extended.
 
-## 📦 Installation
-
-```bash
-git clone https://github.com/your-username/finger-counting-app.git
-cd finger-counting-app
-pip install -r requirements.txt
-python finger_count.py
